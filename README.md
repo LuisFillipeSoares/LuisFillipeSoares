@@ -75,7 +75,7 @@ Inicio de estudos em JavaScript:
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### 👀 Estou interessado
-![Mobile](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Mobile](https://img.shields.io/badge/-Mobile-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
