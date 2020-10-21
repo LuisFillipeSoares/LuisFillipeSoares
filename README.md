@@ -1,5 +1,5 @@
 # :man_technologist: George Alan
-[![Linkedin Badge](https://img.shields.io/badge/-Luis Fillipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fillipe-0a50a6132/)](https://www.linkedin.com/in/luis-fillipe-0a50a6132/)
+[![Linkedin Badge](https://img.shields.io/badge/-Luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fillipe-0a50a6132/)](https://www.linkedin.com/in/luis-fillipe-0a50a6132/)
 [![Gmail Badge](https://img.shields.io/badge/-jobluisfillipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jobluisfillipe@gmail.com)](mailto:jobluisfillipe@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-luisltdas-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luisltdas/)](https://www.instagram.com/luisltdas/)
 
